@@ -1,0 +1,2 @@
+# Raw Kaggle export (large; keep local copy under data/raw/ if needed)
+data/raw/*.csv
